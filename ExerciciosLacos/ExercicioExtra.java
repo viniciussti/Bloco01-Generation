@@ -1,4 +1,4 @@
-package exerciciosLaçoCondicional_03_06_2021;
+package ExerciciosLacos;
 
 /*João, homem de bem, comprou um microcomputador para controlar o rendimento diário
 de seu trabalho. Toda vez que ele traz um peso de tomate maior que o estabelecido pelo

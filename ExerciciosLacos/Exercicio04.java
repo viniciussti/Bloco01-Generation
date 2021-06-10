@@ -1,4 +1,4 @@
-package exerciciosLaçoCondicional_03_06_2021;
+package ExerciciosLacos;
 
 import java.util.Scanner;
 

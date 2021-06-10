@@ -1,4 +1,4 @@
-package exerciciosLaçoCondicional_03_06_2021;
+package ExerciciosLacos;
 
 /*Faça um programa que receba três inteiros e diga qual deles é o maior.*/
 

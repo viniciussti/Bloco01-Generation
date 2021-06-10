@@ -1,4 +1,4 @@
-package exerciciosLaçoCondicional_03_06_2021;
+package ExerciciosLacos;
 
 /*Faça um programa que entre com três números e coloque em ordem crescente.*/
 

@@ -1,4 +1,4 @@
-package exerciciosLa�oCondicional_03_06_2021;
+package ExerciciosLacos;
 /*Faça um programa que receba a idade de uma pessoa e mostre na saída em qual
 categoria ela se encontra:
  10-14 infantil
