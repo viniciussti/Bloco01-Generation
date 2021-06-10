@@ -1,4 +1,4 @@
-package Exercicio_Herança;
+package Exercicio_Herança_Polimorfismo;
 
 public class Animal {
 
@@ -20,13 +20,24 @@ public class Animal {
 	public void setIdade(String idade) {
 		this.idade = idade;
 	}
-
-	public String emitirSom(String emitirSom) {
-		return emitirSom;
+	
+	public void som() {
+		
 	}
-
-	public String emitirAcao(String emitirAcao) {
-		return emitirAcao;
+	
+	public void correr() {
+		
 	}
+	public void subir() {
+		
+	}
+	
+//	public String emitirSom(String emitirSom) {
+//		return emitirSom;
+//	}
+//
+//	public String emitirAcao(String emitirAcao) {
+//		return emitirAcao;
+//	}
 
 }
