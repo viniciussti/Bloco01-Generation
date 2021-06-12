@@ -19,9 +19,9 @@ public class TestaEstoque {
 
 		ArrayList<String> estoques = new ArrayList<>();
 
-		System.out.println("================");
-		System.out.println("LISTA DE COMPRAS");
-		System.out.println("================");
+		System.out.println("========================");
+		System.out.println("LISTA DO ESTOQUE DA LOJA");
+		System.out.println("========================");
 
 		System.out.println("Quantos produtos você deseja acrescentar na lista?");
 		int quantidade = scan.nextInt();
