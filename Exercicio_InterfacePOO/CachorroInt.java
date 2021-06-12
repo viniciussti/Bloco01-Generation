@@ -2,7 +2,6 @@ package Exercicio_InterfacePOO;
 
 public class CachorroInt extends SuperClasseAnimal implements InterfaceAnimal {
 
-	
 	public void som() {
 		System.out.println("O som do seu cachorrinho: AuAuAuu");
 	}
